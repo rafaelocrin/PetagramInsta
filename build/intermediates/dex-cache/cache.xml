@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_14e11aa108fa6b74cf8cd3c71aa1d04a18807008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_d2726d083f7550f2e9a377534609983cf8045d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8ee1326f2c24d426305973f4c5479ff38bfd5324/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_457f2a8c62af3d0360a9da1cbb0776b7f6de08de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_5e5a75109ad0e8ae3ed5cf721cc7c557f66a944f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1410dfd008a3fb79cd7beb3481c5285169fb273b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_3fcedac74291efbc22237fbefae20b537ed7ca43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-24.2.1_00205eef7f20395cf7bc4ef5d826f389931d4512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_590958b7685f9e8153915a13a31bc53c96a70ff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a70c632f4c68d86016a404e1cbb14bf8ba4f9137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d4b724b24a1925824dd3c3094383c67b831fe2f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c50b10450e47ccf91b9d4ab13579a9af36ead9a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5bcf88971f46b6d9525a77e18db7566bed5ae417">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_387e8e1f44c61589cd225e88e6df7dc0a5afdc19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_85c01a3a91e60cbd2e957aababfe8d232e0c4922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e8b67c68108aa36b99c5ffc67e5defbf63f86c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_6bd27994686e49128e1e82994067a27429b2004f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_ed241d34ad7d0717de33000f0df2430cfb255dfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8952e3e076f5d9c39bedff0437a53a10bb51e790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c875d087437aba7fefbd43ad1f0a2a058282e720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f485a32a35633f358dcada4fcec378cd7912b772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_e4c715b2dd5abdcfa07bc768d41d6b538f7a499c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ea20ffab95fb141c4dd13e95af0ffd6b1fe1593b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_1ae9431d5d2c74a3da4683e27bace9948c90d495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7e2af05ad46a4f09ccdc797a9c98a38435888e7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_87304282d5a757549829180dd66b0d1498c3be1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_04cf174e0baf02256193ffb75161bacdc2fd3c20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0026bd07507de1ac6efdee9f27857055f179a06a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3d1164abb2e771eeadadc487f08a12f6b7c6b170/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_84fa5a66419ceafa89287c56dcb5f01148048da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b7f0a67ac370dac36e389f763f3681e029601d0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_9f28fa9a63c8c8f1cef01f1c7f49dc15733d9a9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_c07c622ca020d0eb20a8f223e36cf8537ef6bb1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2910076d2d9d5d9883a85dbf58d95063f1fefdc2">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c044337126ae2f8bb6eeb3113e348d0f67dfb29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8554e142d0669ddf52581dbdbc140f6c59e844e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_397eb8cee0558d43db8b136f052d0b449a6e7697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_ade8895956dce7990e1eee27869e2e72edff40ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2fc9d0a462b4569d8284592a78e2d9081d0b3eb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6b7818e6cdf640ae235fda2bb1ff2113edf534d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d6d21583082d6d37cb37cd1a6be3d2506b01a79e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-24.2.1_fb8da6737e359998a79e47290aa669a825983639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b3c9a212d44a8d7664616d7af2a0f32c5829205f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_cb31751e607440f06ca0fd089e5d14212a6ed83d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b8f5d73e572aef6c084b7ef932efe14308a82bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_dcee25dcb681727cac0ba20ef62baf46994d96f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_ff5648d13569b9ff10a80b35a80ff41381d1f0b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3d57c320dd7405d44e9697a619ac6da09c5c586">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d3d884b9222c367f06e287f16733d27014ecdd88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/MisContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_42d208e63e9b4b6c303b73a40548c8eb4e33b92c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana1/PetagramInsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_ff9cb39f8eae2d517f258ec74e192c297fb206b5/classes.dex" />
+    </item>
+
+</items>
